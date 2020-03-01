@@ -4,6 +4,7 @@
 2. Sult bacon
 3. Palacsinta
 4. Sertésszűz édesburgonyával by Doló
+5. Pho leves
 
 ## 1. Sult gesztenye
 
@@ -49,3 +50,25 @@ Itt gyorsnak kell lenni, mert hamar leég.
 Ha a zöldbors kicsit átpirult, felöntjük kb. 3 dl tejszínnel és sűrűsödésig összeforraljuk.
 
 Az édesburgonyát néhány szem sima krumplival megfőzzük. Krumplipürét csinálunk belőle vajjal, tejjel. Sót, borsot, rómaiköményt és üvegesre párolt hagymát adunk hozzá. (Gombát is lehet :))
+
+## 5. Pho leves
+Lepirítottam a fűszereket (szerecsendió, csillagánizs, fahéj, gyömbér, ízlés szerint), majd az aprított vöröshagymát.
+Felöntöttem vízzel, beletettem a csirkefarhátat és 4 gerezd fokhagymát.
+Miután megfőtt a farhát, hozzáfőztem a csirkemellet is. Végül a húsokat kivettem és eltépkedtem egy villa segítségével.
+
+Gyorsan megfőztem a rizstésztát, majd leszűrtem. Ezután egy tányérba tettem a húsból, a tésztából, karikázott friss újhagymából és friss aprított korianderből álló "díszítést", erre mertem a levesből, valamint belenyomtam egy negyed lime levét is.
+
+Fél szerecsendió
+3 csillagánizs
+1 kis rúd fahéj
+1 ujjnyi gyömbér
+lime
+kb. 3-400 gramm csirkemell (2 főre)
+1 csirkefarhát
+
+1 csokor koriander
+4-5 szál újhagyma
+kb. 100 gramm rizstészta/fő
+kb. 2 liter víz
+só
+
