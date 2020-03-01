@@ -20,18 +20,18 @@
 
 ## 3. Palacsinta
 
-200g liszt (sima buza, nem teljes kiorlesu!!!)
-100g vaj (min. 80% zsirtartalom, nem margarin!!!)
-3dl tej (lehet novenyi)
-1 tojas (vagy 2 sargaja)
-3/4 evokanal cukor
-1 zacsko vanilias cukor
-2 csipet so
-1 keshegynyi szodabikarbona
+* 200g liszt (sima buza, nem teljes kiorlesu!!!)
+* 100g vaj (min. 80% zsirtartalom, nem margarin!!!)
+* 3dl tej (lehet novenyi)
+* 1 tojas (vagy 2 sargaja)
+* 3/4 evokanal cukor
+* 1 zacsko vanilias cukor
+* 2 csipet so
+* 1 keshegynyi szodabikarbona
 
 Extra:
-fel mokkaskanal fahej
-vanilia por
+* fel mokkaskanal fahej
+* vanilia por
 
 Serpenyoben melegitjuk a vajat es hozzaontjuk az osszekevert szaraz osszetevokhoz, aztan raontjuk a tejet.
 Nem baj, ha csomos marad, egy villaval eleg osszekeverni. Merokanallal mehet a kozepesen forro meg enyhen vajas serpenyobe.
@@ -58,17 +58,16 @@ Miután megfőtt a farhát, hozzáfőztem a csirkemellet is. Végül a húsokat 
 
 Gyorsan megfőztem a rizstésztát, majd leszűrtem. Ezután egy tányérba tettem a húsból, a tésztából, karikázott friss újhagymából és friss aprított korianderből álló "díszítést", erre mertem a levesből, valamint belenyomtam egy negyed lime levét is.
 
-Fél szerecsendió
-3 csillagánizs
-1 kis rúd fahéj
-1 ujjnyi gyömbér
-lime
-kb. 3-400 gramm csirkemell (2 főre)
-1 csirkefarhát
-
-1 csokor koriander
-4-5 szál újhagyma
-kb. 100 gramm rizstészta/fő
-kb. 2 liter víz
-só
+* Fél szerecsendió
+* 3 csillagánizs
+* 1 kis rúd fahéj
+* 1 ujjnyi gyömbér
+* lime
+* kb. 3-400 gramm csirkemell (2 főre)
+* 1 csirkefarhát
+* 1 csokor koriander
+* 4-5 szál újhagyma
+* kb. 100 gramm rizstészta/fő
+* kb. 2 liter víz
+* só
 
