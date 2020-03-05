@@ -73,11 +73,11 @@ Gyorsan megfőztem a rizstésztát, majd leszűrtem. Ezután egy tányérba tett
 * só
 
 ## 6. Sult zoldseg
-170 fokra elomelegitett sutoben sussuk, folia alatt, minimum 1 ora. 180 fokon az olaj megeg!
+170 fokos sutoben sussuk, folia alatt, minimum 1 ora. 180 fokon az olaj megeg!
 
 * 4 evokanal olivaolaj
-* 1 teaskanal ceyloni fahej
 * 1/2 teaskanal so
+* 1/4 teaskanal ceyloni fahej
 
 Alap zoldsegek:
 * cekla (kockazva)
