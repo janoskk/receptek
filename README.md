@@ -5,6 +5,7 @@
 3. Palacsinta
 4. Sertésszűz édesburgonyával by Doló
 5. Pho leves
+6. Sult zoldseg
 
 ## 1. Sult gesztenye
 
@@ -70,4 +71,22 @@ Gyorsan megfőztem a rizstésztát, majd leszűrtem. Ezután egy tányérba tett
 * kb. 100 gramm rizstészta/fő
 * kb. 2 liter víz
 * só
+
+## 6. Sult zoldseg
+170 fokra elomelegitett sutoben sussuk, folia alatt, minimum 1 ora. 180 fokon az olaj megeg!
+
+* 4 evokanal olivaolaj
+* 1 teaskanal ceyloni fahej
+* 1/2 teaskanal so
+
+Alap zoldsegek:
+* cekla (kockazva)
+* edesburgonya (kockazva)
+* sargarepa (hosszaban elvagva)
+
+Extra:
+* oregano
+* bazsalikom
+* csemegehagyma
+* fokhagyma
 
