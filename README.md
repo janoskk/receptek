@@ -6,6 +6,7 @@
 4. Sertésszűz édesburgonyával by Doló
 5. Pho leves
 6. Sult zoldseg
+7. Sima fokhagymas szuzerme
 
 ## 1. Sult gesztenye
 
@@ -90,3 +91,18 @@ Extra:
 * csemegehagyma
 * fokhagyma
 
+## 7. Sima fokhagymas szuzerme
+* A szűzpecsenyét megtisztítjuk, és másfél-két ujjnyi szeletekre vágjuk, majd sózzuk, borsozzuk mindkét oldalát a szeleteknek.
+* Egy tálba az olívaolajba beletesszük a mustárt, és belereszeljük a fokhagymát, jól összekeverjük, majd bekenjük vele a hússzeleteket.
+* 10-20 percig hagyjuk pihenni, addig érdemes elkészíteni a köretet.
+* Egy serpenyőt felforrósítunk, beleteszünk egy kis zsírt (csak, hogy éppen ne legyen száraz a serpenyő), majd beletesszük a hússzeleteket, és magas hőfokon mindkét oldalát 3-3 percig sütjük. (Egyszerre ne tegyünk sok húst a serpenyőbe, nehogy vizet engedjen.)
+* Miután megsültek a szeletek, egy tányérra kitesszük, és néhány percig hagyjuk pihenni. (Pl. amíg befejezzük a köretet.)
+
+Hozzavalok:
+* 1 db sertésszűz
+* 2 gerezd fokhagyma
+* 1 teáskanál mustár
+* 2 ek olívaolaj
+* 1 ek sertészsír
+* só ízlés szerint
+* bors ízlés szerint
