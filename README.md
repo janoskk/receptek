@@ -7,6 +7,7 @@
 5. Pho leves
 6. Sult zoldseg
 7. Sima fokhagymas szuzerme
+8. Sült pisztráng
 
 ## 1. Sult gesztenye
 
@@ -106,3 +107,19 @@ Hozzavalok:
 * 1 ek sertészsír
 * só ízlés szerint
 * bors ízlés szerint
+
+## 8. Sült pisztráng
+- sózni kívül-belül
+- kókuszzsírral bekenni
+- lisztben megforgatni
+- megszórni borssal, petrezselyemmel, kakukkfűvel
+- megtölteni 1-1 fokhagymával és 1-2 karika citrommal
+- Előmelegített sütőben, letakarva, 175 fokon 20 percig sütni (alsó-felső sütés)
+- Légkeveréssel szabadon, 200 fokon 25-30 perc
+
+Hozzávalók 4db-hoz:
+- só, bors, petrezselyem, kakukkfű
+- kókuszzsír
+- 4 e.k. liszt
+- 4 gerezd fokhagyma
+- 1 citrom karikára vágva
