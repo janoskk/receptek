@@ -111,15 +111,13 @@ Hozzavalok:
 ## 8. Sült pisztráng
 - sózni kívül-belül
 - kókuszzsírral bekenni
-- lisztben megforgatni
 - megszórni borssal, petrezselyemmel, kakukkfűvel
 - megtölteni 1-1 fokhagymával és 1-2 karika citrommal
-- Előmelegített sütőben, letakarva, 175 fokon 20 percig sütni (alsó-felső sütés)
-- Légkeveréssel szabadon, 200 fokon 25-30 perc
+- Előmelegített sütőben, 200 fokon 20 percig sütni (alsó-felső sütés)
+- Innentől kezdve 10 percenként megfordítani, amíg mindkét oldala ropogós nem lesz
 
 Hozzávalók 4db-hoz:
 - só, bors, petrezselyem, kakukkfű
 - kókuszzsír
-- 4 e.k. liszt
 - 4 gerezd fokhagyma
 - 1 citrom karikára vágva
