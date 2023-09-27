@@ -8,6 +8,7 @@
 6. Sult zoldseg
 7. Sima fokhagymas szuzerme
 8. Sült pisztráng
+9. Csoki fagyi
 
 ## 1. Sult gesztenye
 
@@ -121,3 +122,10 @@ Hozzávalók 4db-hoz:
 - kókuszzsír
 - 4 gerezd fokhagyma
 - 1 citrom karikára vágva
+
+## 9. Csoki fagyi
+- 4 db banán
+- 4 ek kókuszolaj
+- 3 dl zabtej
+- 4 ek kakaópor
+ 
