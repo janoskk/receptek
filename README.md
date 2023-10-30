@@ -1,5 +1,6 @@
 # Kedvenc receptjeink
 
+0. Általános sütés
 1. Sult gesztenye
 2. Sult bacon
 3. Palacsinta
@@ -9,6 +10,11 @@
 7. Sima fokhagymas szuzerme
 8. Sült pisztráng
 9. Csoki fagyi
+
+## 0. Általános sütés
+
+1. Kacsacomb -- 4 comb + 3dl víz -- 200-220 fok 40-50 perc, megfordít és 180-200 fok amíg meg nem pirul 
+2. Sütőtök -- 175 fok 40 perc, 185 fok amíg meg nem pirul
 
 ## 1. Sult gesztenye
 
