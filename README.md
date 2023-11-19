@@ -10,6 +10,7 @@
 7. Sima fokhagymas szuzerme
 8. Sült pisztráng
 9. Csoki fagyi
+10. Pattogatott kukorica
 
 ## 0. Általános sütés
 
@@ -134,4 +135,11 @@ Hozzávalók 4db-hoz:
 - 4 ek kókuszolaj
 - 3 dl zabtej
 - 4 ek kakaópor
+
+## 10. Pattogatott kukorica
+- 50g kukorica
+- 1.5 ek olaj
+- 0.5-1 tk só
+
+Összekeverjük, lefedjük, közepes lángon melegítjük, közben rázogatjuk. Kész, ha 2-3 mp telik el két pattogás között.
  
