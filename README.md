@@ -11,6 +11,7 @@
 8. Sült pisztráng
 9. Csoki fagyi
 10. Pattogatott kukorica
+11. Tatárbifsztek
 
 ## 0. Általános sütés
 
@@ -142,4 +143,18 @@ Hozzávalók 4db-hoz:
 - 0.5-1 tk só
 
 Összekeverjük, lefedjük, közepes lángon melegítjük, közben rázogatjuk. Kész, ha 2-3 mp telik el két pattogás között.
- 
+
+## 11. Tatárbifsztek
+- 150g (darált) hús
+- 2 ek olívaolaj
+- 1 ek reszelt parmezán
+- 1 tk mustár
+- 1 tk őrölt (füstölt) paprika
+- 0.5 tk só
+- 0.5 tk őrölt bors
+- 0.5 tk tabasco szósz
+- 0.5 tk worcestershire szósz
+- 3db fokhagyma
+- 0.5db vöröshagyma apróra vágva
+- 1db szárított paradicsom apróra vágva
+- 1db tojássárgája
