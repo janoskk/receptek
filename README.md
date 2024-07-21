@@ -12,6 +12,7 @@
 9. Csoki fagyi
 10. Pattogatott kukorica
 11. Tatárbifsztek
+12. Csirke saslik
 
 ## 0. Általános sütés
 
@@ -158,3 +159,22 @@ Hozzávalók 4db-hoz:
 - 0.5db vöröshagyma apróra vágva
 - 1db szárított paradicsom apróra vágva
 - 1db tojássárgája
+
+## 12. Csirke saslik (4 főre)
+- 3/4 kg csirkecomb filé
+- 30ml szójaszósz
+- 30ml olaj
+- fél citrom leve
+- 3db fokhagyma
+
+Felkockázzuk a husit, bepácoljuk a fenti összetevőkkel minimum 2 órára, vagy egy éjszakára. Pro tipp: a zsírja a lényeg, tilos kivágni!
+
+- 1-1.5kg krumpli
+- só
+- bors
+- olaj
+- (1db hagyma)
+
+1cm vastagra vágjuk a megpucolt krumplit, majd 6 percig sós vízben főzzük. Utána kitesszük egy tepsibe, só, bors, olaj, és a tetejére a saslikot. (Magamnak teszek rá hagymát is -- negyedelem és héjakra bontom.)
+200 fokra előmelegített sütőbe tesszük fél órára, 10 percenként forgarjuk. Kakukkfű ággal rákenünk a finom levéből, majd utolsó 10 percre vissza a sütőbe.
+
