@@ -6,13 +6,15 @@
 3. Palacsinta
 4. Sertésszűz édesburgonyával by Doló
 5. Pho leves
-6. Sult zoldseg
-7. Sima fokhagymas szuzerme
+6. Sült zoldseg
+7. Sima fokhagymás szűzérme
 8. Sült pisztráng
 9. Csoki fagyi
 10. Pattogatott kukorica
 11. Tatárbifsztek
 12. Csirke saslik
+13. Krumplipüré
+14. Csülök
 
 ## 0. Általános sütés
 
@@ -177,4 +179,31 @@ Felkockázzuk a husit, bepácoljuk a fenti összetevőkkel minimum 2 órára, va
 
 1cm vastagra vágjuk a megpucolt krumplit, majd 6 percig sós vízben főzzük. Utána kitesszük egy tepsibe, só, bors, olaj, és a tetejére a saslikot. (Magamnak teszek rá hagymát is -- negyedelem és héjakra bontom.)
 200 fokra előmelegített sütőbe tesszük fél órára, 10 percenként forgarjuk. Kakukkfű ággal rákenünk a finom levéből, majd utolsó 10 percre vissza a sütőbe.
+
+## 13. Krumplipüré
+- 1.2kg krumpli
+- 1dl zabtej
+- 100g vaj
+- só
+- bors
+- 1 csipet szerecsendió
+- opcionális: fokhagyma por
+
+Megfőzzük a krumplit sós vízben, leöntjük a vizet, hozzáadjuk a többit és összepasszírozzuk.
+
+## 14. Csülök
+- 1.6kg alsó csülök
+- fűszerek
+- 3 fej hagyma
+- 1 fej fokhagyma
+- 1 üveg sör
+
+2.5l sós vízben főzzük 1 órán át. Utána kivesszük és bedörzsökjük:
+- olaj
+- só
+- bors
+- majoranna
+- fűszerkömény
+
+180 fokra előmelegítjük a sütőt. Mellé tesszük a hagymát és fokhagymát, majd időnként meglocsoljuk sörrel. 2-3 óra sütés után kész.
 
