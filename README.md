@@ -15,6 +15,7 @@
 12. Csirke saslik
 13. Krumplipüré
 14. Csülök
+15. Édesburgonya-lasagne
 
 ## 0. Általános sütés
 
@@ -207,3 +208,26 @@ Megfőzzük a krumplit sós vízben, leöntjük a vizet, hozzáadjuk a többit �
 
 180 fokra előmelegítjük a sütőt. Mellé tesszük a hagymát és fokhagymát, majd időnként meglocsoljuk sörrel. 2-3 óra sütés után kész.
 
+## 15. Édesburgonya-lasagne
+- fél kg darált marha
+- 1 nagy vöröshagyma
+- 1 üveg paradicsompüré
+- só
+- bors
+- fokhagyma
+- koriander és/vagy petrezselyem
+- parmezán sajt
+
+Egy nagyobb fej vöröshagymát apróra vágtunk, serpenyöben kókuszzsiron megpirítjuk.
+Hozzáadjuk a darált húst és készre sütötjük.
+Ezután ráöntötjük a paradicsompürét és pár percig összesütjük.
+Sóval, borssal, fokhagymával és zöld füszerekkel (koriander, petrezselyem)
+fűszerezzük.
+
+Egy nagyobb édesburgonyát meghámozunk és vékony karikákra szeleteljük. Edénybe
+rétegezzük: a szószos hússal kezdjük majd rá az édesburgonya (és így tovább...) 
+Tetejére parmezan sajt kerül.
+
+Először a sütöbe letakarva tetgyük be (kb. 45
+perc, 185 fokon), majd mikor az édesburgonya megpuhult, levesszük a fóliát és tovább sütjük,
+mig a sajt szépen rápirult.
