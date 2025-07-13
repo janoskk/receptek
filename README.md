@@ -16,6 +16,7 @@
 13. Krumplipüré
 14. Csülök
 15. Édesburgonya-lasagne
+16. Cigánypecsenye
 
 ## 0. Általános sütés
 
@@ -231,3 +232,25 @@ Tetejére parmezan sajt kerül.
 Először a sütöbe letakarva tetgyük be (kb. 45
 perc, 185 fokon), majd mikor az édesburgonya megpuhult, levesszük a fóliát és tovább sütjük,
 mig a sajt szépen rápirult.
+
+## 16. Cigánypecsenye (Motoros konyhája -- https://motoroskonyhaja.blog.hu/2014/06/05/a_legjobb_ciganypecsenye)
+- 8 szelet sertéstarja (kb. 1,2 kg) (szabadtartású mangalica pl.) 1 ujjnyi vastag szeletek
+- 1 kg apróbb krumpli
+- 40 dkg sima füstölt szalonna (én füstölt szabadtartású mangalica szalonnát használtam). NE használjunk FŐTT ÉS füstölt dolgokat! A legjobb a sima füstölt szalonna (mondjuk kenyérszalonna).
+- 4 evőkanál olaj
+- 8 gerezd fokhagyma
+- 2 evőkanál különböző mustár (próbáljunk normális mustárt venni). Én bolgár és orosz mustár keverékét használtam.
+- 2 evőkanál fűszerpaprika (bogyiszlai, más nem játszik)
+- Majoranna
+- Szurokfű, azaz vadmajoranna (sokan oregánóként ismerik)
+- Bors
+- Só
+
+Először készítsük el a pácot, amiben a húsok pihenni fognak. Öntsük egy tálba a 4 evőkanál olajat, nyomjunk hozzá 4 gerezd fokhagymát és a mustárokat. Szórjuk hozzá a fűszerpaprika felét, majd sózzuk, borsozzuk. Kenjük be húst és 1 órára pihentessük a hűtőben.
+
+Most jöhet a krumpli. A krumplikkal nem lesz nagy gond, vágjuk mindegyiket hosszában négy felé, majd szórjuk meg a következőkkel: só, bors, majoránna, szurokfű, a fűszerpaprika másik fele, kevés olaj. Keverjük össze az egészet. Természetesen minden fűszert ízlés szerint használjunk,
+és tegyük 200 C-fokra felfűtött sütőbe kb. 40-45 percre a középső rácsra. 10-15 percenként keverjük-rázogassuk át. Sima hústűvel tudjuk ellenőrizni, hogy puha-e a krumpli. Ha már puha akkor mehet maxira a sütő hadd piruljon a köret!
+
+A szalonnát vágjuk félujjnyi vastag darabokra (a 40 dkg-t 4 hosszanti részre), majd metéljük be a háromnegyed-részükig. A szalonna pirulásáig hagyjuk a serpenyőben (természetesen mindkét oldalát pirítsuk meg), majd vegyük ki, addig szépen kiereszti a finom zsírját.
+
+A húsok mindkét oldalát süssük maximum 3 percig (NEM tovább!), majd vegyük ki a serpenyőből. Ekkor nagyon finom, szaftos, omlós húst fogunk kapni. Nem szabad tovább sütni, hiszen akkor már kiszárítjuk az egészet. A kész húst kenjük meg a másik fél adag zúzott fokhagymával és rakjuk a tetejére az időközben fűszerpaprikába mártott füstölt szalonnát (csak a tetejét kell a paprikába mártani).
