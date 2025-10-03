@@ -17,6 +17,7 @@
 14. Csülök
 15. Édesburgonya-lasagne
 16. Cigánypecsenye
+17. Sütőtök++
 
 ## 0. Általános sütés
 
@@ -254,3 +255,26 @@ Most jöhet a krumpli. A krumplikkal nem lesz nagy gond, vágjuk mindegyiket hos
 A szalonnát vágjuk félujjnyi vastag darabokra (a 40 dkg-t 4 hosszanti részre), majd metéljük be a háromnegyed-részükig. A szalonna pirulásáig hagyjuk a serpenyőben (természetesen mindkét oldalát pirítsuk meg), majd vegyük ki, addig szépen kiereszti a finom zsírját.
 
 A húsok mindkét oldalát süssük maximum 3 percig (NEM tovább!), majd vegyük ki a serpenyőből. Ekkor nagyon finom, szaftos, omlós húst fogunk kapni. Nem szabad tovább sütni, hiszen akkor már kiszárítjuk az egészet. A kész húst kenjük meg a másik fél adag zúzott fokhagymával és rakjuk a tetejére az időközben fűszerpaprikába mártott füstölt szalonnát (csak a tetejét kell a paprikába mártani).
+
+## 17. Sütőtök++
+Autumn Comfort: Baked Pumpkin with Tahini & Soy Ginger Dressing
+… here comes a new idea with some fantastic ingredients from our shelves. 
+Ingredients:
+- Hokkaido Pumpkin
+- Olive Oil
+- Salt Flakes
+- Aleppo Chili Flakes
+- Tahini
+- the best roasted Sesame Oil you’ve ever tasted
+- Our most favourite super smooth Soy Sauce
+- Fresh Ginger, grated
+- Urfa Chili Flakes
+Instructions:
+Preheat the oven to 200°C  Toss pumpkin chunks with olive oil, salt flakes, and Aleppo chili flakes. 
+Spread on a baking sheet in a single layer.
+Bake until the pumpkin is tender and edges are caramelized.
+In a small bowl, mix together sesame oil, soy sauce, and grated ginger until well combined.
+Spread tahini on the base of your serving dish. Arrange the roasted pumpkin chunks on top.
+Drizzle the ginger-soy dressing over the pumpkin, and sprinkle with Urfa chili flakes.
+Enjoy the comforting, earthy flavors of this seasonal dish!
+
