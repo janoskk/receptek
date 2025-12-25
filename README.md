@@ -18,6 +18,7 @@
 15. Édesburgonya-lasagne
 16. Cigánypecsenye
 17. Sütőtök++
+18. Emésztést segítő tea
 
 ## 0. Általános sütés
 
@@ -278,3 +279,12 @@ Spread tahini on the base of your serving dish. Arrange the roasted pumpkin chun
 Drizzle the ginger-soy dressing over the pumpkin, and sprinkle with Urfa chili flakes.
 Enjoy the comforting, earthy flavors of this seasonal dish!
 
+## 18. Emésztést segítő teakeverék:
+- ADAMO KAMILLAVIRAG
+- ADAMO FEHER ÜRÖMFO
+- ADAMO BORSMENTALEVEL
+- ADAMO ÉDESKÖMÉNY
+- ADAMO FEHER ÜRÖMFÜ
+- HERBARIA EDESGYÖKER TEA 40 G
+- HERBARIA ORVOSI ZILIZ GYÖKER TEA 40 G
+- ADAMO ÉDESKÖMÉNY
