@@ -19,6 +19,7 @@
 16. Cigánypecsenye
 17. Sütőtök++
 18. Emésztést segítő tea
+19. Jaime parmezanos teszta
 
 ## 0. Általános sütés
 
@@ -288,3 +289,16 @@ Enjoy the comforting, earthy flavors of this seasonal dish!
 - HERBARIA EDESGYÖKER TEA 40 G
 - HERBARIA ORVOSI ZILIZ GYÖKER TEA 40 G
 - ADAMO ÉDESKÖMÉNY
+
+## 19. Jaime parmezanos teszta
+4 szemelyre:
+150g parmezan lereszel
+1-2 citrom héj lereszel
+1 citrom levele
+5 evokanal Oliva olaj
+Nagy marek bazsalikom mozsarban osszetorve
+2 tojas
+So, bors
+
+Tészta megfozve atrakni a szoszos talba, megontozni a teszta vizevel
+
